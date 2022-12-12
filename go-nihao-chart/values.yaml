@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository:
+  repository: gcr.io/sbox-gp/go-nihao
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag:
+  tag: tag1
 
 imagePullSecrets: []
 nameOverride: ""
