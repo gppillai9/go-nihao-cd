@@ -1,7 +1,7 @@
 timeout: 1200s
 substitutions:
-  _CUSTOM_REGION: europe-west3-a
-  _CUSTOM_CLUSTER: cluster-1
+  _CUSTOM_REGION: us-central1-c
+  _CUSTOM_CLUSTER: gke-deploy-test1
 steps:
   - name: gcr.io/cloud-builders/kubectl
     id: Configure kubectl
