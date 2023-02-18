@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "realestate-core-sandbox-msci",
+  "private_key_id": "39bfae67f11f43a0579da5ff12fa29f851bfaeb1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdpBl1AvWagBzi\nIQAgI6lmlIRKcU1atcxFfTONu+ppVnIb271BzVuszOWhqY+w82F4zC3xyZEJZiTk\n0pVXfBBsvnsdCPWQRDjbkYRlc38UC/Ai/RKMrWMtIsaKqD8cf2K0g+e61k2vnr8j\nEXJS8iaZypwk9EezqtnOA4AMo16tmzo+5WKS9BEwcNEQnZdydGlEviNioKeUlXR+\nFcUEe8+UH9ilwODd9Si6IT9FWmA3o1ycllLOKPcbJqNQX5jXZ2lbnSdlUz611EeO\ncZfbl3lSJJCfX+8zBv8rdmc5+lrZ+VCMzI9WJQUqx1+r8zSlJoJVzKJIOxYzjw5W\ntyiTuRJJAgMBAAECgf8zzVkQOoi63J6hMHb6GL3yF5vhWpow1MzriNkIGlhNhTq6\nLNtkZDdb8XkERtQRMek16OKwMayXihlVmF27Aenj0jRiti772W9Vt9vp+qonzER9\nOux9jfypOGRF7EPQ+YtWBoJ/wyyEKYZl37XRzAEjSJFHE378a4hnSn8pqAXUxklp\noiEEp+h+5sBS+86qpzCMM3Dbj/80iJpHN3xcKvfS6y1p3sc7AeD6DmSgd2OU65O9\naMxWGNOFQYC41CAERnqa7Bo5XR8V1bEnKpmngXkS7O658gXTyNjwawpqhUYCb04N\nze1FdbGapfOQ9TtBVHwHN6R8O8eEzBoCwD1Lh+ECgYEA1t7wcGZnDls+48LUXUQ5\nAOn91i3f8e50/Fsdvoa7uPizlcpKdB+ayab0npKOQbODTxIZu4Q6lzCfAowEiI/g\nWO46/oLrOrzAsZd5yU7KOAWMRmjUJea1AOGK3LgZF9d8SmJiIvrZMmBRolfJv4JV\nsTtg0oY1bJuEg3tbJiC/6ekCgYEAu9DLW3Xb+Z9hGqTwxJB+CERCzx6uIgFTpTbr\nDLliRo+YYcx7jAJVeV6wQc47hjcbYqQDgyQ2J0Lo75MJvveRunF86m+h7ItHPDsb\njatKZTGEHBrE2NMu2LXnCa4y2Suydmn87jfikAdsD5mrBizmJlxf4WZYisaYcNBl\nhMgeSWECgYEAvA4WhWk6XPhDDHfiAVbKRSCFxsQTsdwviwX7/FpTRcp08m4/x245\nvK9gfMBrvNjt3XBMES/jT5uAL2x4M0Uo5uxpuYK/eYLlawjVz/gjR/CjGqR4uEs4\ns3KyZAbD/3fbEgcVOOQu38Yo7FrE+dWKRjlfviEz9MAPtDtsROx4yrECgYEAny1+\nrK1fGlkx+1r/lBjCOE9iMBhYjQmC0uuQmuAjopnhFEIyE5+Gwa62w47+c+oQk7Fe\nKK9wFiZnNWTxRaCdKd81d5vVKJ2CalHOMGuUSd+FkCw/2WRit9izT0kMX3Lhdequ\nK1fB9T/VHgOnJzy2cpynxmjvce6PFE4LPFY/FQECgYBPe4nK2akWWbpz0aBL3R30\n+JH5CmKL8TNV7W06H5C6q+i2DqRfuAPfJYeNpGdFmq/oWr3f2osZfYoXlJWhOMaJ\nsR7QGvSu0IIXHF1oIZpPBdGkK/4VY6Sj4EKjtnpbVtoF1MiMnl/qH9WTysd0R7o9\nTukamMnIgqjsMle+8ehocA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dremio-sa@realestate-core-sandbox-msci.iam.gserviceaccount.com",
+  "client_id": "113571225429872312104",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dremio-sa%40realestate-core-sandbox-msci.iam.gserviceaccount.com"
+}
